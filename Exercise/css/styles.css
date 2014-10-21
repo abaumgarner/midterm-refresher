@@ -6,6 +6,20 @@
 	line-height: 24px; 
 */
 
+body {
+    background: url("../img/bg.png");
+}
+
+img {
+    width: 200px;
+}
+
+blockquote {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #36d488;
+}
 
 /***************
 	Typography
